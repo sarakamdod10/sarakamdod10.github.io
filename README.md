@@ -1,11 +1,3 @@
-**Location:** KA, India
-
-**Email:** sarakamdod04@gmail.com
- 
-**LinkedIn:** [linkedin.com/in/sara-kamdod-1123591a6](https://www.linkedin.com/in/sara-kamdod-1123591a6)
-
-**Phone:** 7338338760
-
 ## Summary
 - Engineer- Junior Data Science/AI Software developer with a strong background in Machine Learning and Natural Language Processing.
 - Proficient in Python and deep learning frameworks.

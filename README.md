@@ -22,6 +22,9 @@
 - Implemented resizing functionality for BMP (Bitmap) files based on user-specified dimensions.
 - Maintained image quality while transforming input BMP images into resized output BMP files.
 
+**Quant Master's Private Limited** [*Intern*]
+- had the opportunity to contribute to a project  and also worked as an intern within the same organization.
+
 ## Education
 - **BE in Computer Science**
   - *STJ Institute of Technology* (2018-2022)

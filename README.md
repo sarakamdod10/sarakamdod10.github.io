@@ -22,7 +22,7 @@
 - Implemented resizing functionality for BMP (Bitmap) files based on user-specified dimensions.
 - Maintained image quality while transforming input BMP images into resized output BMP files.
 
-**Quant Master's Private Limited** [*Intern*]
+**Quant Master's Private Limited** 
 - had the opportunity to contribute to a project  and also worked as an intern within the same organization.
 
 ## Education

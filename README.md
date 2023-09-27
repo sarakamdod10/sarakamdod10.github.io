@@ -35,6 +35,9 @@
   - *STJ Institute of Technology* (2018-2022)
 - **HSC - PCMB**
   - *RTES PU College*
+- **SSLC**
+  - *St.Lawrenece high school*
+  
 
 ## Skills
 

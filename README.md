@@ -12,18 +12,18 @@
 ## Professional Experience
 **Deevia Software India Private Limited** [*Project Contract* (02/2023 - 08/2023)]
 
-**GenAI Voice & Image Assistant**
+1. **GenAI Voice & Image Assistant**
 - Developed and implemented text, voice, and image assistant application using Python.
 - Integrated OpenAI GPT, DALL·E, Speech Recognition, and pyttsx3 APIs for natural language processing and image generation.
 - Designed user-friendly UI using the PyQt5 framework, enhancing user interaction.
 
-**Visibility Forecasting**
+2. **Visibility Forecasting**
 - Led the design and execution of the Visibility Forecasting project, achieving a 15% reduction in errors and enhancing overall model performance.
 - Demonstrated expertise in data understanding, pre-processing, and manipulation.
 - Trained ML models, optimizing model parameters and hyperparameters for improved prediction accuracy.
 - Collaborated closely with cross-functional teams to ensure project success.
 
-**Image Processing**
+3. **Image Processing**
 - Designed and developed an image processing application in C language.
 - Implemented resizing functionality for BMP (Bitmap) files based on user-specified dimensions.
 - Maintained image quality while transforming input BMP images into resized output BMP files.
@@ -35,7 +35,8 @@
   - *RTES PU College*
 
 ## Skills
-- **Programming Languages:** Python, C
+<img alt="**Programming Languages:** Python, C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" style="margin:2px;"/>
+
 - **Machine Learning:** Supervised & Unsupervised algorithms, EDA, data analysis & visualization, Model building
 - **Deep Learning:** ANN, CNN, LSTM, back-propagation 
 - **Natural Language Processing (NLP):** OpenAI GPT, DALL·E, Generative AI, LLM

@@ -1,4 +1,4 @@
-## Summary
+##💫Summary
 - Engineer- Junior Data Science/AI Software developer with a strong background in Machine Learning and Natural Language Processing.
 - Proficient in Python and deep learning frameworks.
 - Excellent communication skills and a motivated team player.
@@ -59,15 +59,15 @@
   <img alt="Math & Statistics" src="https://img.shields.io/badge/Math%20%26%20Statistics-78909C?style=for-the-badge" style="margin:2px;"/>
 
 - **Python Packages & Frameworks:**
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" style="margin:2px;"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" style="margin:2px;"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-FF6F61?style=for-the-badge" style="margin:2px;"/>
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit%20Learn-FF6F61?style=for-the-badge" style="margin:2px;"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow" style="margin:2px;"/>
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-FF6F61?style=for-the-badge" style="margin:2px;"/>
-  <img alt="NLTK" src="https://img.shields.io/badge/NLTK-FF6F61?style=for-the-badge" style="margin:2px;"/>
-  <img alt="SpeechRecognition" src="https://img.shields.io/badge/SpeechRecognition-FF6F61?style=for-the-badge" style="margin:2px;"/>
-  <img alt="Pyttsx3" src="https://img.shields.io/badge/Pyttsx3-FF6F61?style=for-the-badge" style="margin:2px;"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" style="margin:2px;"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="margin:2px;"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-FF6F61?style=for-the-badge&logoColor=white" style="margin:2px;"/>
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" style="margin:2px;"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="margin:2px;"/>
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-FF6F61?style=for-the-badge&logo=Keras&logoColor=white" style="margin:2px;"/>
+  <img alt="NLTK" src="https://img.shields.io/badge/NLTK-FF6F61?style=for-the-badge&logo=NLP&logoColor=white" style="margin:2px;"/>
+  <img alt="SpeechRecognition" src="https://img.shields.io/badge/SpeechRecognition-FF6F61?style=for-the-badg&logo=Speech&logoColor=whitee" style="margin:2px;"/>
+  <img alt="Pyttsx3" src="https://img.shields.io/badge/Pyttsx3-FF6F61?style=for-the-badge&logo=TextToSpeech&logoColor=white" style="margin:2px;"/>
 
 - **UI Framework:**
   <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-00A6D6?style=for-the-badge" style="margin:2px;"/>

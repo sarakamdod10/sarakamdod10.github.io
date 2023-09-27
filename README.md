@@ -23,7 +23,7 @@
 - Maintained image quality while transforming input BMP images into resized output BMP files.
 
 ## Education
-- **Bachelor's in Computer Science**
+- **BE in Computer Science**
   - *STJ Institute of Technology* (2018-2022)
 - **HSC - PCMB**
   - *RTES PU College*

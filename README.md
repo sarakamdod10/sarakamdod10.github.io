@@ -1,4 +1,4 @@
-##💫Summary
+## Summary
 - Engineer- Junior Data Science/AI Software developer with a strong background in Machine Learning and Natural Language Processing.
 - Proficient in Python and deep learning frameworks.
 - Excellent communication skills and a motivated team player.
